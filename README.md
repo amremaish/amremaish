@@ -137,7 +137,7 @@ Faculty of Computers and Information – Menofia University (2014 – 2018)
 <p align="center">
   <a href="https://www.linkedin.com/in/amr-emaish" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" width="80" /></a>
   <a href="mailto:amr.emaish@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" width="80" /></a>
-  <a href="tel:+201017029540"><img src="https://img.shields.io/badge/Phone-25D366?style=flat&logo=whatsapp&logoColor=white" width="80" /></a>
+  <a href="https://wa.me/201017029540"><img src="https://img.shields.io/badge/Phone-25D366?style=flat&logo=whatsapp&logoColor=white" width="80" /></a>
   <a href="https://github.com/amremaish"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" width="80" /></a>
   <a href="https://codeforces.com/profile/amremaish"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white" width="110" /></a>
 </p>
