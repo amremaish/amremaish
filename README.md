@@ -69,7 +69,7 @@ A passionate <strong>Senior Backend Engineer</strong> with over 5 years of exper
 
 - 🔭 Currently working at **Elham**, Saudi Arabia – Building a learning management system serving thousands of users.  
 - 💳 Integrated **Moyasar Payment Gateway** supporting Mada, Visa, and Mastercard.  
-- 🚀 Founder of **Sajil**, a car rental platform in Saudi Arabia, generating **$500K+ revenue** since 2020 with features like reservations, notifications, and payment integrations.  
+- 🚀 Contributed as a **freelance backend developer** to **Sajil**, a car rental platform in Saudi Arabia, which generated **$500K+ revenue** with features like reservations, notifications, and payment integrations.  
 - 🚀 Previously worked on large-scale projects at **Dubizzle Egypt, Crocosoft, and StartAppz**, serving millions of daily users.  
 - 🏆 Won **1st place in Ensala competition** for a lecture management project.  
 - 🧩 Solved **500+ competitive programming problems** on [Codeforces](https://codeforces.com/profile/amremaish).  
